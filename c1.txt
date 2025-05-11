@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 MPC
 BIPC
 CEC
+=======
+AIML
+CSE
+IT
+AIDS
+>>>>>>> fb
